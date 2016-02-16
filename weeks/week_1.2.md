@@ -21,6 +21,10 @@
 ## Taking a look at that structure:   
 
 You can see that rails new created a lot directories and files. The ones we want to focus on today are:
+|Day 1          | [Welcome & Sign Ups/ Duck Day ](week_1.1.md)                   |
+|---------------|----------------------------------------------------------------|
+|Day 2          | [Intro to Terminal + Start a Rails Project in C9 ](week_1.2.md)|
+
 |File Folder    | Purpose                 |
 |---------------|-------------------------|
 |app/    |Contains the controllers, models, and views for your application. You will do most of your work here.|

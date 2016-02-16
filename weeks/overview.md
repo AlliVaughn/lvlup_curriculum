@@ -9,7 +9,7 @@ Lvl\U/p Workshops
 
 [Topic Board for Questions @ ...]()
 
-This is the online material for Lvl\U/p Workshop series for Middle & High Schoolers. 
+This is the live syllabus for Lvl\U/p Workshop series for Middle & High Schoolers. 
 
 **Team**
 * Alli Vaughn 
@@ -19,54 +19,45 @@ This is the online material for Lvl\U/p Workshop series for Middle & High School
 
 
 ## Week 1: Getting Started @ Lvl\U/p
-|Day 1          | [Welcome & Duck Day](week_1.1.md)    |
+|Day 1          | [Welcome & Duck Day](week_1.1.md)                            |
 |---------------|--------------------------------------------------------------|
 |Day 2          | Topic & Link                                                 |
-|---------------|--------------------------------------------------------------|
 
 ## Week 2: Getting Started @ Lvl\U/p
-|Day 1          | Topic & Link                                                |
+|Day 1          | [Welcome & Duck Day](week_1.1.md)                            |
 |---------------|--------------------------------------------------------------|
 |Day 2          | Topic & Link                                                 |
-|---------------|--------------------------------------------------------------|
+
 
 ## Week 3: Getting Started @ Lvl\U/p
-|Day 1          | Topic & Link                                                |
+|Day 1          | [Welcome & Duck Day](week_1.1.md)                            |
 |---------------|--------------------------------------------------------------|
 |Day 2          | Topic & Link                                                 |
-|---------------|--------------------------------------------------------------|
 
 ## Week 4: Getting Started @ Lvl\U/p
-|Day 1          | Topic & Link                                                |
+|Day 1          | [Welcome & Duck Day](week_1.1.md)                            |
 |---------------|--------------------------------------------------------------|
 |Day 2          | Topic & Link                                                 |
-|---------------|--------------------------------------------------------------|
 
 ## Week 5: Getting Started @ Lvl\U/p
-|Day 1          | Topic & Link                                                |
+|Day 1          | [Welcome & Duck Day](week_1.1.md)                            |
 |---------------|--------------------------------------------------------------|
 |Day 2          | Topic & Link                                                 |
-|---------------|--------------------------------------------------------------|
 
 ## Week 6: Getting Started @ Lvl\U/p
-|Day 1          | Topic & Link                                                |
+|Day 1          | [Welcome & Duck Day](week_1.1.md)                            |
 |---------------|--------------------------------------------------------------|
 |Day 2          | Topic & Link                                                 |
-|---------------|--------------------------------------------------------------|
 
 ## Week 7: Getting Started @ Lvl\U/p
-|Day 1          | Topic & Link                                                |
+|Day 1          | [Welcome & Duck Day](week_1.1.md)                            |
 |---------------|--------------------------------------------------------------|
 |Day 2          | Topic & Link                                                 |
-|---------------|--------------------------------------------------------------|
 
 ## Week 8: Getting Started @ Lvl\U/p
-|Day 1          | Topic & Link                                                |
+|Day 1          | [Welcome & Duck Day](week_1.1.md)                            |
 |---------------|--------------------------------------------------------------|
 |Day 2          | Topic & Link                                                 |
-|---------------|--------------------------------------------------------------|
-
-
-
-
 ---
+---
+

@@ -16,13 +16,13 @@ Most Tech employees are currently white and male 20-45 y/o, Women & Minorities i
 Supporting readings from White house directive on STEM and NSF/ Other supporting stuff: 
 
  * [Census Report on STEM Rep Women/Minorities 2013](https://www.census.gov/prod/2013pubs/acs-24.pdf)
- * [Nat. Ctr for Women in Technology Statistics](https://www.ncwit.org/blog/did-you-know-demographics-technical-women)
- * [Fed. B. of Labor Stats](http://www.bls.gov/cps/cpsaat11.htm)
- * [clear diagram of teh projected increase in minorities in workforce by 2022](http://www.bls.gov/opub/mlr/2013/article/labor-force-projections-to-2022-the-labor-force-participation-rate-continues-to-fall.html)
+ * [National Center for Women in Technology Statistics](https://www.ncwit.org/blog/did-you-know-demographics-technical-women)
+ * [Federal Bureau of Labor Statistics](http://www.bls.gov/cps/cpsaat11.htm)
+ * [Increase in Jobs 2014-2024(FBLS)](http://www.bls.gov/ooh/computer-and-information-technology/home.htm)
  
  ## What can we do about it?  
- Why YOU, yes you, should learn to program. 
- [Douglas Rushkoff](http://www.rushkoff.com/about/)
+  
+ [Douglas Rushkoff: Program or be Programmed](http://www.rushkoff.com/about/)
  [Treehouse blog Article about Practical application for non-programmers](http://blog.teamtreehouse.com/havent-started-programming-yet) 
  
  ## Meta-Goals:

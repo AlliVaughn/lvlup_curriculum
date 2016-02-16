@@ -51,10 +51,10 @@ This is the live syllabus for Lvl\U/p Workshop series for Middle & High Schooler
 ## Week 7: Intro to Front End Development: Bootstrap & Basics of Bootstrap Layout
 |Day 1          | [Bootstrap Intro ](week_7.1.md)                   |
 |---------------|----------------------------------------------------------------|
-|Day 2          | [ Basics of Bootstrap Layout](week_7.2.md)|
+|Day 2          | [Basics of Bootstrap Layout](week_7.2.md)|
 
-## Week 8: 
-|Day 1          | [Welcome & Sign Ups/ Duck Day ](week_8.1.md)                   |
+## Week 8: Styling & Customizing and Wrap Up Day Demo
+|Day 1          | [Individual Work on Styling ](week_8.1.md)                   |
 |---------------|----------------------------------------------------------------|
-|Day 2          | [Intro to Terminal + Start a Rails Project in C9 ](week_8.2.md)|
+|Day 2          | [Wrap up & demos ](week_8.2.md)|
 

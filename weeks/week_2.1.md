@@ -6,10 +6,10 @@ First, Take a look at these:
 * [And This one](http://www.bbc.com/russian)
 * [Let's not forget This one](http://www.aljazeera.net)
 * [This one too!](http://www.20minutes.fr/)
- <!-- Intro discussion about the links. How many are there?  How are they the same?  Different? Can we map this to anything we need to do?  -->
+>Intro discussion about the links. How many are there?  How are they the same?  Different? Can we map this to anything we need to do? 
 * [Now let's look at this link. Notice anything?](http://cdn.oreillystatic.com/news/graphics/prog_lang_poster.pdf)
  So, how can we overcome? Discuss. 
- <!-- time?, exposure? etc, but for now, do what WE can do, right?-->
+ >time?, exposure? etc, but for now, do what WE can do, right?
 
 ##  Pseudocode
 ### Activity: Write steps to make a pb & j sandwich. 

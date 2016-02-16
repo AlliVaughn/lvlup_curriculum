@@ -24,10 +24,10 @@ You can see that rails new created a lot directories and files. The ones we want
 |File Folder    | Purpose                 |
 |---------------|-------------------------|
 |app/    |Contains the controllers, models, and views for your application. You will do most of your work here.|
-|config/ |Configure your application's runtime rules, routes, database, and more.    |
-|db/     |Shows your current database schema, as well as the database migrations.    |
-|public/ |The only folder seen to the world as-is. If you put files in here, they will be served directly without any processing by Rails.    |
-|app/assets|This is where your images, JavaScript, stylesheets (CSS), and other static files should go. Modern Rails apps use something called the Assets Pipeline, which combines all the JavaScript and CSS files in this directory into a single file for speediness.  |
+|config/ |Configure your application's runtime rules, routes, database, and more.|
+|db/     |Shows your current database schema, as well as the database migrations.|
+|public/ |The only folder seen to the world as-is. If you put files in here, they will be served directly without any processing by Rails.|
+|app/assets|This is where your images, JavaScript, stylesheets (CSS), and other static files should go. Modern Rails apps use something called the Assets Pipeline, which combines all the JavaScript and CSS files in this directory into a single file for speediness.|
 
 There is a lot more that rails new created. Probably enough to fill a book, so we're going to ignore them for now.
 

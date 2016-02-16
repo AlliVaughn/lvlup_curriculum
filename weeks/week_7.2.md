@@ -68,4 +68,12 @@ The container adds some attributes from the Bootstrap library, like padding and 
 * We added the gem and installed it. 
 * Then, we added a fun google font to our topics! You can play with other [fonts](https://www.google.com/fonts#)!
 
-### Push your changes to Github and then Heroku, as we did previously. 
+## Push your changes to Github and then Heroku, as we did previously. 
+
+
+# Congratulations! 
+## You've just created, styled, and deployed your very first piece of software! 
+*Remember: This is a journey!* 
+*Every cool thing you learn from here on out simply makes you a more knowledgeable developer!*
+
+### *Welcome to the club!* 

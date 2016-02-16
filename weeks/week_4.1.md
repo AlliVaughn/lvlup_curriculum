@@ -123,10 +123,5 @@ https://firstword-secondword-number.herokuapp.com
 * *admire your shiny new live site!* 
 * Hmmm...
 * [Chloe is unimpressed, but stay tuned!](https://s-media-cache-ak0.pinimg.com/736x/28/ef/20/28ef204478b114e7fb81d2bfe77444ac.jpg)
-* Let's head on back to the development site and see what we can do!
 
-
-#The Site is OK, but What Can We *DO* With It and how can we 
-make it look better? 
-I'm with Chloe: Let's get to work. 
-First, we will deal with functionality and then we will make it look interesting.
+## The Site is OK, but What Can We *DO* With It and how can we make it look better? I'm with Chloe: Let's get to work. First, we will deal with functionality and *then* we will make it look interesting.

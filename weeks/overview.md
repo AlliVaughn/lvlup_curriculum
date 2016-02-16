@@ -1,7 +1,7 @@
 ---
 ---
 
-![alt text](lvlup_curriculum/images/logo.png)
+![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/logo.png)
 
 
 Lvl\U/p Workshops 

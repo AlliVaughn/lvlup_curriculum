@@ -29,7 +29,7 @@ This is the live syllabus for Lvl\U/p Workshop series for Middle & High Schooler
 |Day 2          | [Git and Github](week_2.2.md)|
 
 ## Week 3: Intro to Rails 
-|Day 1          | [CRUD & Scaffolding with Migration](week_3.1.md)                   |
+|Day 1          | [CRUD & Scaffolding with Migration](week_3.1.md)|
 |---------------|----------------------------------------------------------------|
 |Day 2          | [Routing](week_3.2.md)|
 

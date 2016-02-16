@@ -1,6 +1,9 @@
 ---
 ---
 
+![alt text](https://github.com/allivaughn/lvlup_curriculum/raw/master/src/images/logo.png)
+
+
 Lvl\U/p Workshops 
 =================================
 

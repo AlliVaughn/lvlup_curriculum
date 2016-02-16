@@ -1,3 +1,6 @@
+![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/logo.png)
+=================================
+
 ## Fun with Deployment to Heroku: aka "Grandma Can See This": 
 <!--http://docs.railsbridge.org/intro-to-rails/deploying_to_heroku-->
 <!--https://devcenter.heroku.com/articles/git-->

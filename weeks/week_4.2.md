@@ -1,3 +1,5 @@
+![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/logo.png)
+=================================
 
 ### Hooking up Votes and Topics
 <!--(http://docs.railsbridge.org/intro-to-rails/hooking_up_votes_and_topics)-->

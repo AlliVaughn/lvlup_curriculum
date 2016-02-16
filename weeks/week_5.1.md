@@ -1,3 +1,6 @@
+![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/logo.png)
+=================================
+
  ## Allow People To Vote 
 <!--(http://docs.railsbridge.org/intro-to-rails/allow_people_to_vote)-->
 

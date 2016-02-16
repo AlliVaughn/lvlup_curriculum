@@ -1,3 +1,6 @@
+![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/logo.png)
+=================================
+
 ## Intro to Rails: Create a Migration & CRUD w/Scaffolding  
 
 * Open your terminal and type the following: 

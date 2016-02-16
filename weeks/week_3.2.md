@@ -1,3 +1,6 @@
+![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/logo.png)
+=================================
+
 *Ready for more?! Ok then! Let's do the thing.*
 
  

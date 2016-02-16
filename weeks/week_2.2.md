@@ -1,3 +1,6 @@
+![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/logo.png)
+=================================
+
 ## Add The Project To A Git Repo
 This cloud environment is nifty, but, um, how do we *keep* our stuff?  Where will it live? 
 Imagine your project is a cold puppy outdoors in the Winter... That's sad, right? 

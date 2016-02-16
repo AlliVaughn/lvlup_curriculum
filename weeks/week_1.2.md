@@ -1,3 +1,6 @@
+![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/logo.png)
+=================================
+
 ## [C9 Workspace](http://docs.railsbridge.org/intro-to-rails/getting_started)
 
 ## Begin by setting up a new Workspace in C9 IDE: 

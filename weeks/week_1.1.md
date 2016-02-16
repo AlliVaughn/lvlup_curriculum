@@ -1,3 +1,6 @@
+![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/logo.png)
+=================================
+
 ## [Introduction to Full Stack Development: Or, Reasoning Saves the World](http://docs.railsbridge.org/intro-to-rails)
 
 ## Sign Up for All the Things!   

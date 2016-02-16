@@ -4,7 +4,7 @@
 ![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/logo.png)
 =================================
 
-### Griffin School & Skybridge Academy 
+## Griffin School & Skybridge Academy 
 **February 29th Start @ Griffin & March 22 start @ Skybridge**
 
 [Topic Board for Questions @ ...]()
@@ -22,6 +22,11 @@ This is the live syllabus for Lvl\U/p Workshop series for Middle & High Schooler
 |Day 1          | [Welcome & Sign Ups/ Duck Day ](week_1.1.md)|
 |---------------|----------------------------------------------------------------|
 |Day 2          | [Intro to Terminal + Start a Rails Project in C9 ](week_1.2.md)|
+
+## Week 2: CS Intro: Pseduocode, Ruby and Git/Github
+|Day 1          | [Pseudocode, Ruby basics](week_2.1.md)|
+|---------------|----------------------------------------------------------------|
+|Day 2          | [Git and Github](week_2.2.md)|
 
 ## Week 2: CS Intro: Pseduocode, Ruby and Git/Github
 |Day 1          | [Pseudocode, Ruby basics](week_2.1.md)|

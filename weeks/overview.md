@@ -38,20 +38,22 @@ This is the live syllabus for Lvl\U/p Workshop series for Middle & High Schooler
 |---------------|----------------------------------------------------------------|
 |Day 2          | [Voting On Topics & Hooking up Votes + Topics](week_4.2.md)|
 
-## Week 5: 
-|Day 1          | [Welcome & Sign Ups/ Duck Day ](week_5.1.md)                   |
+## Week 5: Going Deeper: Bring Voting to the People & New Topics/Redirect to List
+|Day 1          | [Voting for the People](week_5.1.md)                   |
 |---------------|----------------------------------------------------------------|
-|Day 2          | [Intro to Terminal + Start a Rails Project in C9 ](week_5.2.md)|
+|Day 2          | [New Topics/Redirection](week_5.2.md)|
 
-## Week 6: 
-|Day 1          | [Welcome & Sign Ups/ Duck Day ](week_6.1.md)                   |
-|---------------|----------------------------------------------------------------|
-|Day 2          | [Intro to Terminal + Start a Rails Project in C9 ](week_6.2.md)|
+## Week 6: Make Topic Title a Link & Clean up and Retrospective
 
-## Week 7: 
-|Day 1          | [Welcome & Sign Ups/ Duck Day ](week_7.1.md)                   |
+Links
+|Day 1          | [Topic Links & Clean Up](week_6.1.md)                   |
 |---------------|----------------------------------------------------------------|
-|Day 2          | [Intro to Terminal + Start a Rails Project in C9 ](week_7.2.md)|
+|Day 2          | [LvlUp Retrospective](week_6.2.md)|
+
+## Week 7: Intro to Front End Development: Bootstrap & Basics of Bootstrap Layout
+|Day 1          | [Bootstrap Intro ](week_7.1.md)                   |
+|---------------|----------------------------------------------------------------|
+|Day 2          | [ Basics of Bootstrap Layout](week_7.2.md)|
 
 ## Week 8: 
 |Day 1          | [Welcome & Sign Ups/ Duck Day ](week_8.1.md)                   |

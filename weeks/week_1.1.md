@@ -1,5 +1,4 @@
-## Introduction to Full Stack Development: Or, Reasoning Saves the World
-<!--(http://docs.railsbridge.org/intro-to-rails)--> 
+## [Introduction to Full Stack Development: Or, Reasoning Saves the World](http://docs.railsbridge.org/intro-to-rails)
 
 ## Sign Up for All the Things!   
 ### Visit the following links and sign up for each service. 
@@ -15,6 +14,7 @@
  <!--(Most Tech employees are currently white and male 20-45 y/o, Women & Minorities in Tech much lower,-->
  <!--Workforce Projected to grow significantly by W/Minorities in next 10, BUT number of W/M expected to -->
  <!--enter Tech DECREASING.  Houston: AUSTIN, we have a problem. ) -->
+
  #### We WANT YOU! 
  ( Supporting readings from White house directive on STEM and NSF/ Other supporting stuff)  
  [Census Report on STEM Rep Women/Minorities 2013](https://www.census.gov/prod/2013pubs/acs-24.pdf)
@@ -27,11 +27,7 @@
  [Douglas Rushkoff](http://www.rushkoff.com/about/)
  [Treehouse blog Article about Practical application for non-programmers](http://blog.teamtreehouse.com/havent-started-programming-yet) 
  
-* Show and tell of MY Local IDE, The Lvl\U/p IDE, Demo site 
-* Q & A
-* The Great Duck Migration
-
-### Meta-Goals:
+ ### Meta-Goals:
 When you have completed Lvl\U/p, you should understand:
 
 * Vocabulary (Discussion of activity each week, Sign up for Evernote)  
@@ -52,3 +48,8 @@ When you have completed Lvl\U/p, you should understand:
 * Heroku
 * Bootstrap
 * HTML/CSS
+* Show and tell of MY Local IDE, The Lvl\U/p IDE, Demo site 
+## Let's Find our Terminal: 
+* [Let's find our Command Line and try a few things:](http://docs.railsbridge.org/learn-to-code/the_command_line)
+* The Great Duck Migration
+

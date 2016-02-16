@@ -1,7 +1,7 @@
 *Ready for more?! Ok then! Let's do the thing.*
 
  
-## Setting the Default page & Deploy to Heroku 
+## Setting the Default page 
 <!--(http://docs.railsbridge.org/intro-to-rails/setting_the_default_page)-->
 
 ### Setting the default page

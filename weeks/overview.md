@@ -43,9 +43,7 @@ This is the live syllabus for Lvl\U/p Workshop series for Middle & High Schooler
 |---------------|----------------------------------------------------------------|
 |Day 2          | [New Topics/Redirection](week_5.2.md)|
 
-## Week 6: Make Topic Title a Link & Clean up and Retrospective
-
-Links
+## Week 6: Make Topic Title a Link & Clean up and Retrospective Links
 |Day 1          | [Topic Links & Clean Up](week_6.1.md)                   |
 |---------------|----------------------------------------------------------------|
 |Day 2          | [LvlUp Retrospective](week_6.2.md)|

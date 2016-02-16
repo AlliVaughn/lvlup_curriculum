@@ -18,7 +18,8 @@
 * run the project by clicking the "run" button (which is like running "rails s" in a traditional local development environment) 
 * click on the url in the terminal window and see your page holder for your app!
 
-## Taking a look at that structure:You can see that rails new created a lot directories and files. The ones we want to focus on today are:
+## You can see that rails new created a lot directories and files.
+The ones we want to focus on today are:
 
 |File Folder    | Purpose                 |
 |---------------|-------------------------|

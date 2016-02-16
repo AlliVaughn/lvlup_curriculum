@@ -18,10 +18,10 @@ This is the live syllabus for Lvl\U/p Workshop series for Middle & High Schooler
 * Hunter Tripp
 
 
-## Week 1: Getting Started @ Lvl\U/p
-|Day 1          | [Welcome & Duck Day](week_1.1.md)                            |
+## Week 1: Introduction
+|Day 1          | [Welcome & Sign Ups/ Duck Day ](week_1.1.md)                            |
 |---------------|--------------------------------------------------------------|
-|Day 2          | Topic & Link                                                 |
+|Day 2          | [Intro to Terminal + Start a Rails Project in C9 ](week_1.2.md)                      |
 
 ## Week 2: Getting Started @ Lvl\U/p
 |Day 1          | [Welcome & Duck Day](week_1.1.md)                            |

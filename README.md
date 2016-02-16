@@ -1,37 +1,33 @@
-## Introduction to Full Stack Development: Or, Reasoning Saves the World
-<!--(http://docs.railsbridge.org/intro-to-rails)--> 
+
+![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/logo.png)
+=================================
+
+## [Introduction to Full Stack Development: Or, Reasoning Saves the World](http://docs.railsbridge.org/intro-to-rails)
 
 ## Sign Up for All the Things!   
 ### Visit the following links and sign up for each service. 
-* For our course, please use the same credentials for each service. It makes it easier.*
+* For our course, please use the same credentials for each service. It makes it easier.
 * [Sign up for a Cloud9 IDE account](https://c9.io) 
 * [Sign up for a Github account](https://github.com)
 * [Sign up for a Heroku account](https://heroku.com)
 
-
-
 ## Overview: Setting the Stage: Environment and  Expectations
-### The State of Things 
- <!--(Most Tech employees are currently white and male 20-45 y/o, Women & Minorities in Tech much lower,-->
- <!--Workforce Projected to grow significantly by W/Minorities in next 10, BUT number of W/M expected to -->
- <!--enter Tech DECREASING.  Houston: AUSTIN, we have a problem. ) -->
- #### We WANT YOU! 
- ( Supporting readings from White house directive on STEM and NSF/ Other supporting stuff)  
- [Census Report on STEM Rep Women/Minorities 2013](https://www.census.gov/prod/2013pubs/acs-24.pdf)
- [Nat. Ctr for Women in Technology Statistics](https://www.ncwit.org/blog/did-you-know-demographics-technical-women)
- [Fed. B. of Labor Stats](http://www.bls.gov/cps/cpsaat11.htm)
- [clear diagram of teh projected increase in minorities in workforce by 2022](http://www.bls.gov/opub/mlr/2013/article/labor-force-projections-to-2022-the-labor-force-participation-rate-continues-to-fall.htm)
+## The State of Things:
+Most Tech employees are currently white and male 20-45 y/o, Women & Minorities in Tech much lower & the Workforce is Projected to grow significantly by W/Minorities in next 10 years, BUT number of W/M expected to enter Tech DECREASING.
+
+Supporting readings from White house directive on STEM and NSF/ Other supporting stuff: 
+
+ * [Census Report on STEM Rep Women/Minorities 2013](https://www.census.gov/prod/2013pubs/acs-24.pdf)
+ * [National Center for Women in Technology Statistics](https://www.ncwit.org/blog/did-you-know-demographics-technical-women)
+ * [Federal Bureau of Labor Statistics](http://www.bls.gov/cps/cpsaat11.htm)
+ * [Increase in Jobs 2014-2024(FBLS)](http://www.bls.gov/ooh/computer-and-information-technology/home.htm)
  
- ### What can we do about it?  
- Why YOU, yes you, should learn to program. 
- [Douglas Rushkoff](http://www.rushkoff.com/about/)
+ ## What can we do about it?  
+  
+ [Douglas Rushkoff: Program or be Programmed](http://www.rushkoff.com/about/)
  [Treehouse blog Article about Practical application for non-programmers](http://blog.teamtreehouse.com/havent-started-programming-yet) 
  
-* Show and tell of MY Local IDE, The Lvl\U/p IDE, Demo site 
-* Q & A
-* The Great Duck Migration
-
-### Meta-Goals:
+ ## Meta-Goals:
 When you have completed Lvl\U/p, you should understand:
 
 * Vocabulary (Discussion of activity each week, Sign up for Evernote)  
@@ -40,40 +36,60 @@ When you have completed Lvl\U/p, you should understand:
 * How to go from requirements to a new working application in a framework (Rails)
 * How to get your application online (Heroku) 
 * The basic tools that a developer uses (source control, editor, console, cloud local development server)
-* A bit about the  state of the demographics of Technology presently, Projections for the next 10 yrs, and
- next steps you can take. 
+* A bit about the state of the demographics of Technology presently, Projections for the next 10 yrs, and next steps you can take. 
 
-### Tools of the Trade
+
+ ## Tools of the Trade
  
-* Rubber Duck, Various Games, Sandwiches, IoT, EACH OTHER(Community) 
+* Rubber Ducks, Various Games, Sandwiches, IoT, EACH OTHER(Community) 
 * Cloud 9 Internet Development Environment (C9 IDE)
 * C9 IDE includes the following: Ruby, Rails, Bundler, SQLite, a text editor, Terminal, and more! 
 * Git and Github
 * Heroku
 * Bootstrap
 * HTML/CSS
+* Show and tell of MY Local IDE, The Lvl\U/p IDE, Demo site 
+
+## Let's Find our Terminal: 
+* [Let's find our Command Line and try a few things:](http://docs.railsbridge.org/learn-to-code/the_command_line)
+* The Great Duck Migration
 
 
-## C9 Workspace
-<!--(http://docs.railsbridge.org/intro-to-rails/getting_started)-->
 
-### Begin by setting up a new Workspace in C9 IDE: 
+
+
+## [C9 Workspace](http://docs.railsbridge.org/intro-to-rails/getting_started)
+
+## Begin by setting up a new Workspace in C9 IDE: 
 * Login to C9
 * Create a new workspace 
-* Name your *Workspace* for the app we will create ("your_new_workspace_name")
+* Name your Workspace for the app we will create ("your_new_workspace_name")
 * Add a description.
 * Select the "Ruby" icon to indicate we are using a Ruby IDE. (Note the others! Nifty, eh? ) 
 * Click the create workspace button 
 * Creating a workspace automagically generates a "Rails New" instance, and names it "your_new_workspace_name" anyway, so no need for that command!
 
-### Environment and Framework Petting Zoo
+## Environment and Framework Petting Zoo
+[Ask Ubuntu](http://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line)
  
-* open a terminal (if not already open)
- Activity: [Ask Ubuntu](http://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line)
+* Find a terminal like your own command line: open a terminal (if not already open)
 * type "ls" to list the contents
 * compare to the files you see on the left
 * run the project by clicking the "run" button (which is like running "rails s" in a traditional local development environment) 
-* click on the url in the terminal window and see your page holder for your app!  
+* click on the url in the terminal window and see your page holder for your app!
+
+## You can see that rails new created a lot directories and files.
+The ones we want to focus on today are:
+
+|File Folder    | Purpose                 |
+|---------------|-------------------------|
+|app/    |Contains the controllers, models, and views for your application. You will do most of your work here.|
+|config/ |Configure your application's runtime rules, routes, database, and more.|
+|db/     |Shows your current database schema, as well as the database migrations.|
+|public/ |The only folder seen to the world as-is. If you put files in here, they will be served directly without any processing by Rails.|
+|app/assets|This is where your images, JavaScript, stylesheets (CSS), and other static files should go. Modern Rails apps use something called the Assets Pipeline, which combines all the JavaScript and CSS files in this directory into a single file for speediness.|
+
+There is a lot more that rails new created. Probably enough to fill a book, so we're going to ignore them for now.
 
 
 ## Fundamentals of Coding:
@@ -100,7 +116,6 @@ When you have completed Lvl\U/p, you should understand:
 * Practicing simple calculations, variables, arrays, loops and conditionals
 * Introduction to the console (IRB) to try out code
  
-
 
 ## Add The Project To A Git Repo
 This cloud environment is nifty, but, um, how do we *keep* our stuff?  Where will it live? 
@@ -584,6 +599,8 @@ rails generate bootstrap:install static
 ```
 * Generating the install placed that statement there so that application file will now use Twitter Bootstrap with your app! 
 * Here is some light reading: [Documentation](http://www.rubydoc.info/gems/twitter-bootstrap-rails/3.2.2)
+
+## Bootstrap Basics
 * Next, go to each "topic" view and modify the code a bit.  Add:
 ```
 <div class="container">

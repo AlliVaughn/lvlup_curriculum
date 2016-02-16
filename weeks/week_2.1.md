@@ -1,3 +1,5 @@
+![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/logo.png)
+=================================
 # Fundamentals:
 ##  Language 
 ## Activity: Patterns for Mapping

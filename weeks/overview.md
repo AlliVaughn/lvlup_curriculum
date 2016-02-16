@@ -2,9 +2,6 @@
 ---
 
 ![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/logo.png)
-
-
-Lvl\U/p Workshops 
 =================================
 
 ### Griffin School & Skybridge Academy 

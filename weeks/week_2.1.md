@@ -24,4 +24,5 @@ First, Take a look at these:
 ## Activities: Programming basics and Console
 * [Practicing in IRB console: simple calculations, variables, arrays, loops and conditionals](http://docs.railsbridge.org/intro-to-rails/ruby_language)
  
+[OVERVIEW](overview.md) 
  

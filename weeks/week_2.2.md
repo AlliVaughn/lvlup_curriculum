@@ -9,7 +9,7 @@ Let's help our furry friend.
 * Activity:  Jenga 
 * We will use this resource: [Push your C9 Project to GitHub](http://lepidllama.net/blog/how-to-push-an-existing-cloud9-project-to-github/)
 * Open gitHub and Sign in, and place the tab next to your C9 dashboard tab
-* In C9 dashboard, click "settings" (the gear) button on the right. 
+* In C9 dashboard ( make sure you are on your dashboard!), click "settings" (the gear) button on the right. 
 * In the menu to the left click on "connected services". 
 * click "activate" next to gitHub and follow instructions to connect **OR** If you've already connected gitHub, you can skip this step. 
 * Click “ SSH key” and copy the value which appears.
@@ -34,3 +34,5 @@ Let's help our furry friend.
 * [Simple Daily Git Workflow: An Excellent Resource!](http://image.slidesharecdn.com/dcnyc10-gitingear-120510030924-phpapp02/95/git-in-gear-how-to-track-changes-travel-back-in-time-and-code-nicely-with-others-30-638.jpg?cb=1397421717)
 
 *Phew! That was a lot! Well Done, You! Let's get back to our project!* 
+
+[OVERVIEW](overview.md)

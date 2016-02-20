@@ -28,3 +28,5 @@ rails generate bootstrap:install static
 * Generating the install placed that statement there so that application file will now use Twitter Bootstrap with your app! 
 * Here is some light reading: 
 [Documentation](http://www.rubydoc.info/gems/twitter-bootstrap-rails/3.2.2)
+
+[OVERVIEW](overview.md)

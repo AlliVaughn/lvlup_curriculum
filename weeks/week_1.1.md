@@ -51,8 +51,6 @@ When you have completed Lvl\U/p, you should understand:
 * HTML/CSS
 * Show and tell of MY Local IDE, The Lvl\U/p IDE, Demo site 
 
-## Let's Find our Terminal: 
-* [Let's find our Command Line and try a few things:](http://docs.railsbridge.org/learn-to-code/the_command_line)
-* The Great Duck Migration
+## The Great Duck Migration
 
 [OVERVIEW](overview.md)

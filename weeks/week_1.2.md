@@ -1,6 +1,9 @@
 ![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/logo.png)
 =================================
 
+## Let's Find our Terminal: 
+* [Let's find our Command Line and try a few things:](http://docs.railsbridge.org/learn-to-code/the_command_line)
+
 ## [C9 Workspace](http://docs.railsbridge.org/intro-to-rails/getting_started)
 
 ## Begin by setting up a new Workspace in C9 IDE: 

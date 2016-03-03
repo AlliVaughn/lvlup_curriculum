@@ -1,7 +1,10 @@
 ![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/logo.png)
 =================================
 # Fundamentals:
-##  Language 
+
+[Recap: Command line](http://docs.railsbridge.org/learn-to-code/the_command_line)
+
+##  About Language 
 ## Activity: Patterns for Mapping
 First, Take a look at these: 
 * [This one](http://www.worldjournal.com/)
@@ -26,8 +29,31 @@ Guess where this class is taking place?  Yep!
 
 ## A Whole New World (of Programming)
 ## Activities: Programming basics and Console
-* [Practicing in IRB console: simple calculations, variables, arrays, loops and conditionals](http://docs.railsbridge.org/intro-to-rails/ruby_language)
-* [Even More Ruby Fun with Codecademy!](https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/0/1?curriculum_id=5059f8619189a5000201fbcb)
+[Coding Basics](http://docs.railsbridge.org/learn-to-code/computers)
+* [objects](http://docs.railsbridge.org/learn-to-code/objects)
+* [strings](http://docs.railsbridge.org/learn-to-code/strings)
+* [numbers](http://docs.railsbridge.org/learn-to-code/numbers)
+* [variables](http://docs.railsbridge.org/learn-to-code/variables)
+* [nil](http://docs.railsbridge.org/learn-to-code/nil)
+* [Input and Output](http://docs.railsbridge.org/learn-to-code/input_and_output)
+[Intro: Practicing in IRB console: simple calculations, variables, arrays, loops and conditionals](http://docs.railsbridge.org/intro-to-rails/ruby_language)
+
+## Moving on, or ... Next Time! 
+* [More Loops](http://docs.railsbridge.org/learn-to-code/loops)
+* [More Arrays](http://docs.railsbridge.org/learn-to-code/arrays)
+* [Hashes](http://docs.railsbridge.org/learn-to-code/hashes)
+* [Functions](http://docs.railsbridge.org/learn-to-code/functions)
+
+
+
+
+
+Resource for Mapping: 
+* [Even More Ruby Fun with Codecademy!](https://www.codecademy.com/courses/ruby-beginner-en-d1Ylq/0/1?curriculum_id=5059f8619189a5000201fbcb) 
+* [Try some Javascript!](http://codelikethis.com/lessons/javascript)
+
+Even More for Later on: 
+* [Michael Hartl's Tutorial on Rails(free online)](https://www.railstutorial.org/book)
  
 [OVERVIEW](overview.md) 
  

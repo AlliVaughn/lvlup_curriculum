@@ -3,7 +3,10 @@
 
 ## Let's Find our Terminal: 
 * [Let's find our Command Line and try a few things:](http://docs.railsbridge.org/learn-to-code/the_command_line)
-
+### Reading outside of class: 
+[Command Line Equivalents](http://www.lemoda.net/windows/windows2unix/windows2unix.html) 
+I highly recommend looking at these at home if you are a Windows user. You could try out a few at home on your own and get familiar wth your own file structure on your  local environment. 
+[About the Terminal in MacOS/Cloud9](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Unix_SurvivalGuide.html)
 ## [C9 Workspace](http://docs.railsbridge.org/intro-to-rails/getting_started)
 
 ## Begin by setting up a new Workspace in C9 IDE: 

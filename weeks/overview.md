@@ -58,3 +58,18 @@ This is the live syllabus for Lvl\U/p Workshop series for Middle & High Schooler
 |---------------|----------------------------------------------------------------|
 |Day 2          | [Wrap up & demos ](week_8.2.md)|
 
+
+## Some Resources: 
+* [Railsbridge on Github](https://github.com/railsbridge/docs): Amazing folks, without whom Lvl\U/p wouldn't exist! 
+* [Rails Guides](http://guides.rubyonrails.org/): The mother ship for Rails!  
+* [Getting Started with Bootstrap!](http://getbootstrap.com/getting-started/#examples): This is a great place for example code for learning to create more fun stuff on that front end!
+* [Bootstrap CSS Page](http://getbootstrap.com/css/#overview): Global CSS settings, fundamental HTML elements styled and enhanced with extensible classes, and an advanced grid system. 
+* [Unsplash](https://unsplash.com/): free, high-quality photos that you can download and use! 
+* [GitHub Help](https://help.github.com/categories/using-git/): Git...Help. That easy! 
+* [Codecademy](https://www.codecademy.com/): A free site to help you learn and practice coding! 
+* [Stack Overflow](http://stackoverflow.com/): This is a great place to ask questions and get answers. 
+* [Simple Daily Git Workflow: An Excellent Resource!](http://image.slidesharecdn.com/dcnyc10-gitingear-120510030924-phpapp02/95/git-in-gear-how-to-track-changes-travel-back-in-time-and-code-nicely-with-others-30-638.jpg?cb=1397421717)
+* [Heroku Dev Center: Help and Answers!](https://devcenter.heroku.com/)
+* [Harvard's Popular CS 50](https://cs50.harvard.edu/): A fabulous online open course on Computer Science! Highly Recommended! 
+* [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)( Highly Recommend after this Workshop!) 
+

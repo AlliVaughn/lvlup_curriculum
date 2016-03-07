@@ -23,8 +23,9 @@ How are they the same?  Different? Can we map this to anything we need to do?
 * Now, Let's follow your  directions. 
 * Watch this [CS50 Pseudocode(17:08-25:25)](https://www.youtube.com/watch?v=KUB-aJXquUA)
 Guess where this class is taking place?  Yep!  
+Another One! ;-)
 * [Pseudo code Intro: CS 50: Harvard OCW](https://www.youtube.com/watch?v=UuFWYOnHwGM)
-* [PB & J pseudo code Handout](http://static.zerorobotics.mit.edu/docs/team-activities/ProgrammingPeanutButterAndJelly.pdf)
+* [Pseudocode Example](https://dukegreene.wordpress.com/tag/pseudocode/)
 * Discuss. 
 
 ## A Whole New World (of Programming)
@@ -36,12 +37,14 @@ Guess where this class is taking place?  Yep!
 * [variables](http://docs.railsbridge.org/learn-to-code/variables)
 * [nil](http://docs.railsbridge.org/learn-to-code/nil)
 * [Input and Output](http://docs.railsbridge.org/learn-to-code/input_and_output)
-[Intro: Practicing in IRB console: simple calculations, variables, arrays, loops and conditionals](http://docs.railsbridge.org/intro-to-rails/ruby_language)
+
+
+[Intro: Practicing REAL Stuff in IRB console: simple calculations, variables, arrays, loops and conditionals](http://docs.railsbridge.org/intro-to-rails/ruby_language)
 
 ## Moving on, or ... Next Time! 
 * [More Loops](http://docs.railsbridge.org/learn-to-code/loops)
 * [More Arrays](http://docs.railsbridge.org/learn-to-code/arrays)
-* [Hashes](http://docs.railsbridge.org/learn-to-code/hashes)
+* [Hashes](http://learnrubythehardway.org/book/ex39.html)
 * [Functions](http://docs.railsbridge.org/learn-to-code/functions)
 
 

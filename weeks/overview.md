@@ -1,7 +1,7 @@
 ---
 ---
 
-![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/logo.png)
+![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/duck_logo.png)
 =================================
 
 ## Griffin School & Skybridge Academy 

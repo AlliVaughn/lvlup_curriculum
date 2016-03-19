@@ -7,8 +7,6 @@
 ## Griffin School & Skybridge Academy 
 **February 29th Start @ Griffin & March 22 start @ Skybridge**
 
-[Topic Board for Questions @ ...]()
-
 This is the live syllabus for Lvl\U/p Workshop series for Middle & High Schoolers. 
 
 **Team**

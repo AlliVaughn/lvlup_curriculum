@@ -14,7 +14,7 @@ rake routes
 ```
 * What we are seeing?
 * Head to *https://rails-demo-YOURC9NAME.c9users.io/*. We get an error!  That's because we do not have this page set as any *view* yet. 
-* We do have another view though, right?  Do you remember what it's called? Yep!  *Topics!* We were just there. 
+* We do have another view though, right?  Do you remember what it's called? Yep!  **topics!** We were just there. 
 * How do we set the main page to be that *topics* view, since we don't have a main page at this point? (...or maybe ever!)
 * First, find the following file on the left side of your C9 page:
 ```

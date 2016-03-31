@@ -7,11 +7,12 @@ Imagine your project is a cold puppy outdoors in the Winter... That's sad, right
 Let's help our furry friend. 
 
 * Activity:  Jenga 
+
 * We will use this resource: [Push your C9 Project to GitHub](http://lepidllama.net/blog/how-to-push-an-existing-cloud9-project-to-github/)
 * Open gitHub and Sign in, and place the tab next to your C9 dashboard tab
 * In C9 dashboard ( make sure you are on your dashboard!), click "settings" (the gear) button on the right. 
 * In the menu to the left click on "connected services". 
-* click "activate" next to gitHub and follow instructions to connect **OR** If you've already connected gitHub, you can skip this step. 
+* click "activate" next to gitHub and follow instructions to connect **OR,  If you've already connected gitHub, you can skip this step.** 
 * Click “ SSH key” and copy the value which appears.
 * Go to your open gitHub tab and click on your picture in the right hand corner and open your profile.
 * click on the  "edit profile" button on the upper right. 
@@ -24,7 +25,7 @@ Let's help our furry friend.
 * *Leave the repo as "public" and don't check the  "Initialize this repository with a README" button.*
 * click "create repository"
 * Now copy the SSH link. By default GitHub shows the HTTPS link, you will need to toggle it to SSH first! It will look something like:```git@github.com:yourname/yourrepository.git```
-* Open your C9 project window, and go to the terminal. Set your git config username:```git config --global user.name "Your Git Name Here"```
+* Open your C9 project window, and go to the terminal. **Set your git config username:**```git config --global user.name "Your Git Name Here"```
 * Next, also in the terminal, Set your git config email (which should match your github account email):```git config --global user.email "your_email@example.com"```
 * Now, Make your current directory a git repository by typing: ```git init```
 * Using the SSH link you copied from your gitHub repository, add the remote repository as the origin:```git remote add origin git@github.com:yourname/yourrepository.git```

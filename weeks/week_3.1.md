@@ -20,6 +20,8 @@ rake db:migrate
 Well, no.  *Rake* (or "R(uby m)ake") is a command line tool that allows you to run small Ruby programs (tasks) that you use often in your application.
 Neat! That helps!  It would take quite a while to script that by hand! 
 
+## [Why is it so Cool!?](rails_scaffold.md) 
+
 ## CRUD with Scaffolding:
 <!--(http://docs.railsbridge.org/intro-to-rails/CRUD_with_scaffolding) -->
 

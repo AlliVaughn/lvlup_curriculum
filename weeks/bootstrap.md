@@ -45,7 +45,7 @@ All that remains is to learn and play with bootstrap, CSS and HTML classes!
 When we are ready to push it to our live site on heroku, we need to run: 
 
 ```
-rake assets:precompile RAILS_ENV=production
+rake assets:precompile 
 ```
 Then push it to github and then to  Heroku. 
 

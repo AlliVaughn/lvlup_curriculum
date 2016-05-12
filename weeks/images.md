@@ -90,11 +90,18 @@ then, add an image input label and field, like your title fields!  In fact, you 
 
 6. At this point, if you start your  server, and create a new topic, you will be able to  grab a picture and upload it, but the  show view will not display it. Let's fix that!  
 
-In ```app/views/topics/show.html.erb``` and ```app/views/topics/show.html.erb```, add the following code in order to refer to that image object we've made and uploaded: 
+In ```app/views/topics/show.html.erb```  add the following code in order to refer to that image object we've made and uploaded: 
 
 ```
 <%= image_tag @topic.image.url(:medium) %>
 ```
+
+In ```app/views/topics/index.html.erb```, add this code to show our image: 
+
+```
+<%= image_tag topic.image.url(:medium) %>
+```
+
 
 NOW go ahead and upload, and see what happens...
 

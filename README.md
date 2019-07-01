@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/logo.png)
 =================================
-##NOW CLOSED! Thank you!  
+## NOW CLOSED! Thank you!  
 ## Griffin School & Skybridge Academy 
 
 This is the past live syllabus for Lvl\U/p Workshop series for Middle & High Schoolers. 

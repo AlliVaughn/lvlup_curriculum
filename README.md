@@ -2,11 +2,8 @@
 
 ![logo](https://github.com/AlliVaughn/lvlup_curriculum/raw/master/images/logo.png)
 =================================
-
+##NOW CLOSED! Thank you!  
 ## Griffin School & Skybridge Academy 
-**February 29th Start @ Griffin & March 22 start @ Skybridge**
-
-[Topic Board for Questions @ ...]()
 
 This is the past live syllabus for Lvl\U/p Workshop series for Middle & High Schoolers. 
 This company was so much fun! 

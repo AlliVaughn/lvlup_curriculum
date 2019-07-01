@@ -8,7 +8,9 @@
 
 [Topic Board for Questions @ ...]()
 
-This is the past live syllabus for Lvl\U/p Workshop series for Middle & High Schoolers. This company was so much fun!  The students learned plenty, and I had a terrific time teaching them valuable skills.  
+This is the past live syllabus for Lvl\U/p Workshop series for Middle & High Schoolers. 
+This company was so much fun! 
+The students learned plenty, and I had a terrific time teaching them valuable skills.  
 
 **Team**
 * Alli Vaughn 
